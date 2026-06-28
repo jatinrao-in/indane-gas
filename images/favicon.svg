@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Outer glowing Orange Flame (Indane brand colors) -->
+  <path d="M50 5 C58 25, 78 40, 78 65 A28 28 0 0 1 22 65 C22 40, 42 25, 50 5 Z" fill="#f36e22" />
+  <!-- Inner Clean-burning Blue Flame -->
+  <path d="M50 30 C55 45, 65 55, 65 70 A15 15 0 0 1 35 70 C35 55, 45 45, 50 30 Z" fill="#00bfff" />
+</svg>
